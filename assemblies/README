@@ -1,0 +1,5 @@
+In order to make this manageable, the assemblies will be included as stp files. Each one can then be imported as a part file into your favorite 3D modeling program. If you'd prefer to have component level control over your model, you can build the assemblies from the individual part files (./part_files/*.stp). 
+
+To make things even more flexible, the complete original 3D model, in it's native format (autodesk inventor 2012) has been included as a zip file as well. Be sure to select the appropriate project file prior to opening the top level (shapeoko_bom.asm), otherwise the model will have a lot of unresolved links.
+
+-Edward
