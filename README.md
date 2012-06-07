@@ -14,9 +14,25 @@ Contains informational documentation related to the project. This would include 
 PDF exports of the original 2D drawing files. PDF is as universal format as any, publishing in this format will allow anyone to open and view the drawing files without having to install a specialty CAD program. PDF was chosen over DXF for the time being. Community generated DXF files from the original drawings files (drawings_idw) are welcome.
 
 ##exploded_png##
-On each associated page of the wiki 
+There is a non-annotated image at the top of each assiciated page of the wiki. Those images can be found in this directory.
 
-For more information:
+##reference_images##
+Image files associated with the project. Logos, and standard views.
+
+##upgrades##
+Complete zip files of upgrades for your machine. Currently this is limited to two (2) variations of the standard spindle mount. 
+
+##README.md##
+This document in markdown format.
+
+##Shapeoko_v1i##
+Image file referenced at the top of this document. 
+
+##Shapeoko_v1i.zip##
+Complete Autodesk Inventor Project file for the Shapeoko CNC machine. All part (.ipt), presentation (.ipn), drawing (.idw), and assembly (.iam) files are included in this file. This is probably the place to start if you're looking import the 3D model. 
+
+
+###For more information:###
 - website: www.shapeoko.com
 - wiki: www.shapeoko.com/wiki
 - forum: www.shapeoko.com/forum
