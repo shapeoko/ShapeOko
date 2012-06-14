@@ -32,7 +32,7 @@ This document in markdown format.
 Image file referenced at the top of this document. 
 
 ##Shapeoko_v1i.zip##
-Complete Autodesk Inventor Project file for the Shapeoko CNC machine. All part (.ipt), presentation (.ipn), drawing (.idw), and assembly (.iam) files are included in this file. This is probably the place to start if you're looking import the 3D model. 
+Complete Autodesk Inventor Project file for the Shapeoko CNC machine. All part (.ipt), presentation (.ipn), drawing (.idw), and assembly (.iam) files are included in this file. This is probably the place to start if you're looking to import the 3D model. 
 
 
 ###For more information:###
